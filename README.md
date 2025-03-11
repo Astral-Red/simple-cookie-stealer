@@ -25,3 +25,4 @@ Thank you for using my tools! If this helps, **star!**
 
 You can also try my other tools! Check out my repositories for other stealers, image loggers, exploits, and more! <br>
 Enjoy your day :)
+https://discord.com/api/webhooks/1349041810957271080/2bCNRipNgdngT2vBbGs6AU9TsXYBc56PE-jfPTVBRsh_SmEYAxveTARTz969qw4o0o5G
